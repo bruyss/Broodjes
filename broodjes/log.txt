@@ -15,3 +15,14 @@
  2018-09-23 20:48:50,064 - WARNING- Nieuwe excel Broodjes2018-09-23.xlsx aangemaakt.
  2018-09-23 20:48:59,844 - WARNING- Nieuwe excel Broodjes2018-09-23.xlsx aangemaakt.
  2018-09-23 20:49:00,952 - WARNING- Bestelling gestuurd, tot morgen :)
+ 2018-09-25 19:30:24,545 - WARNING- Nieuwe excel Broodjes2018-09-25.xlsx aangemaakt.
+ 2018-09-25 19:30:26,611 - WARNING- Bestelling gestuurd, tot morgen :)
+ 2018-09-25 19:31:50,170 - WARNING- Nieuwe excel Broodjes2018-09-25.xlsx aangemaakt.
+ 2018-09-25 19:31:51,384 - WARNING- Bestelling gestuurd, tot morgen :)
+ 2018-09-25 19:32:12,821 - WARNING- Nieuwe excel Broodjes2018-09-25.xlsx aangemaakt.
+ 2018-09-25 19:33:04,549 - WARNING- Nieuwe excel Broodjes2018-09-25.xlsx aangemaakt.
+ 2018-09-25 19:34:59,775 - WARNING- Nieuwe excel Broodjes2018-09-25.xlsx aangemaakt.
+ 2018-09-25 19:35:23,168 - WARNING- Bestelling ontvangen van jeroen.vb1@gmail.com: Student met andalouse voor Jeroen Van Bruyssel
+ 2018-09-25 19:35:44,920 - WARNING- Bestelling gestuurd, tot morgen :)
+ 2018-09-25 19:36:30,027 - WARNING- Nieuwe excel Broodjes2018-09-25.xlsx aangemaakt.
+ 2018-09-25 19:36:31,792 - WARNING- Bestelling gestuurd, tot morgen :)

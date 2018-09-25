@@ -164,7 +164,7 @@ def stuurbestelling(wsnaam, ontvanger):
 
 def sleeper():
     morgen = datetime.datetime.now() + datetime.timedelta(days=1)
-    morgenvroeg = datetime.datetime(morgen.year, morgen.month, morgen.day, 5)
+    morgenvroeg = datetime.datetime(morgen.year, morgen.month, morgen.day + 1, 5)
     while datetime.datetime.now() < morgenvroeg:
         time.sleep(10)
 
