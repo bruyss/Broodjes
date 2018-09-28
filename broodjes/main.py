@@ -164,7 +164,7 @@ wsnaam = initworksheet()
 while True:
     nieuwebestellers, nieuwebestellingen = getnieuwebestellingen()
     vulexcel(wsnaam, nieuwebestellers, nieuwebestellingen)
-    if int(datetime.datetime.now().strftime('%H%M')) > 1330:
+    if int(datetime.datetime.now().strftime('%H%M')) > 930:
         logging.warning('Bestelling gestuurd, tot morgen :)')
         stuurbestelling(wsnaam, verantwoordelijke)
         sleeper()
