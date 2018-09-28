@@ -26,3 +26,13 @@
  2018-09-25 19:35:44,920 - WARNING- Bestelling gestuurd, tot morgen :)
  2018-09-25 19:36:30,027 - WARNING- Nieuwe excel Broodjes2018-09-25.xlsx aangemaakt.
  2018-09-25 19:36:31,792 - WARNING- Bestelling gestuurd, tot morgen :)
+ 2018-09-26 19:13:25,647 - WARNING- Nieuwe excel Broodjes2018-09-26.xlsx aangemaakt.
+ 2018-09-26 19:13:29,299 - WARNING- Bestelling ontvangen van jeroen.vb1@gmail.com: Smos voor Jeroen Van Bruyssel
+ 2018-09-26 19:13:31,674 - WARNING- Bestelling ontvangen van jeroen.vb1@gmail.com: Smos-- voor Jeroen Van Bruyssel
+ 2018-09-26 19:13:52,897 - WARNING- Bestelling gestuurd, tot morgen :)
+ 2018-09-28 18:03:43,215 - WARNING- Nieuwe excel Broodjes2018-09-28.xlsx aangemaakt.
+ 2018-09-28 18:03:45,416 - WARNING- Bestelling ontvangen van jeroen.vb1@gmail.com: Smos voor Jeroen Van Bruyssel
+ 2018-09-28 18:03:46,920 - WARNING- Bestelling gestuurd, tot morgen :)
+ 2018-09-28 18:05:08,711 - WARNING- Nieuwe excel Broodjes2018-09-28.xlsx aangemaakt.
+ 2018-09-28 18:05:20,203 - WARNING- Bestelling gestuurd, tot morgen :)
+ 2018-09-28 18:05:21,582 - WARNING- Nieuwe excel Broodjes2018-09-28.xlsx aangemaakt.

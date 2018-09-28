@@ -28,15 +28,6 @@ deadline = datetime.time(9, 30)
 subjects = ('Broodje', 'broodje', 'Broodjes', 'broodjes', 'Bestelling broodje', 'Bestelling broodjes', 'bestelling broodje', 'bestelling broodjes')
 
 
-# def sendmail(recipient, text):      # Stuurt een email
-#     smtpObj = smtplib.SMTP('smtp.gmail.com', 587)
-#     smtpObj.ehlo()
-#     smtpObj.starttls()
-#     smtpObj.login(address, pw)
-#     smtpObj.sendmail(address, recipient, text)
-#     smtpObj.quit()
-
-
 def sendmail(send_from, send_to, subject, message, files=[],
               server="localhost", port=587, username='', password='',
               use_tls=True):
