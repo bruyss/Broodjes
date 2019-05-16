@@ -16,6 +16,8 @@ from email.utils import formatdate
 from email import encoders
 import logging
 
+# Edit
+
 logging.basicConfig(filename='log.txt',
                     level=logging.WARNING,
                     format=' %(asctime)s - %(levelname)s- %(message)s')
